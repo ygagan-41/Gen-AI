@@ -25,4 +25,5 @@ dependencies = [
     "tiktoken>=0.14.0",
     "transformers>=5.21.0",
     "uvicorn[standard]>=0.54.0",
+    "wikipedia>=1.4.0",
 ]
